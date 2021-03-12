@@ -9,38 +9,38 @@ const userData = [
         password: "p@ssword1"
     },
     {
-        username: "matt_b",
-        twitter: "mathewb",
-        github: "mathewb",
-        email: "mathew_b@gmail.com",
+        username: "sample_2",
+        twitter: "sample_2",
+        github: "sample_2",
+        email: "sample_2@gmail.com",
         password: "p@ssword2"
     },
     {
-        username: "shaun_c",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun_c@gmail.com",
+        username: "sample_3",
+        twitter: "sample_3",
+        github: "sample_3",
+        email: "sample_3@gmail.com",
         password: "p@ssword3"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
-        github: "leenorris",
-        email: "lee_n@gmail.com",
+        username: "sample_4",
+        twitter: "sample_4",
+        github: "sample_4",
+        email: "sample_4@gmail.com",
         password: "p@ssword4"
     },
     {
-        username: "priya_r",
-        twitter: "priyaravi23",
-        github: "priyaravi23",
-        email: "priya_r@gmail.com",
+        username: "sample_5",
+        twitter: "sample_5",
+        github: "sample_5",
+        email: "sample_5@gmail.com",
         password: "p@ssword5"
     },
     {
-        username: "pooja",
-        twitter: "pooja_w",
-        github: "pooja",
-        email: "pooja@gmail.com",
+        username: "sample_6",
+        twitter: "sample_6",
+        github: "sample_6",
+        email: "sample_6@gmail.com",
         password: "p@ssword6"
     }
 ]

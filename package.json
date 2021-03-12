@@ -9,7 +9,7 @@
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
-  "author": "",
+  "author": "Richard Lim",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
