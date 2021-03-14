@@ -18,7 +18,7 @@ DB_USER='root'
 DB_PW='XXX'
 ```
 
-If you haven't done yet. Install npm
+If you haven't done yet, install npm
 
 `npm init`
 
@@ -49,7 +49,7 @@ With Nodemon:
 Helper testing is currently setup with Jest
 
 ## Contributing
-:octocat: [Richard Lim](https://github.com/lim95)
+[Richard Lim](https://github.com/lim95)
 
 ## Questions
 Contact me with any questions: [email](mailto:sungjoon.lim@gmail.com) , [GitHub](https://github.com/lim95)<br />
